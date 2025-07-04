@@ -1,6 +1,6 @@
 # study_LangGraph
 
-* LangGraphの体系的学習用repository
+* LangGraphの学習メモ用repository
 * 『LangChainとLangGraphによるRAG・AIエージェント実践入門（西田公宏）』書籍の学習内容をまとめる
 
 ## notebook内容
