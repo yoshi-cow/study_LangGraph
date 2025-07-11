@@ -22,6 +22,17 @@
   * ツールの呼び出しを伴うAIエージェント作成用関数
 * 16_streaming.ipynb
   * ストリーム出力について
+* 22_Humanintheloop.ipynb
+  * ヒューマンフィードバックの適用
+
+### Agentic RAG
+* 23_AgenticRAG.ipynb
+  * エージェントによる最適なベクトルDBの選択
+* 24_CorrectiveRAG.ipynb
+  * ベクトル検索結果に対するセルフリフレクションの適用
+* 25_AdaptiveRAG.ipynb
+  * クエリ内容を分析して、動的にRAGのクエリを最適化
+
 ### エージェントデザインパターン
 * 05_about_agent_design_pattern.ipynb
   * 主要なエージェントデザインパターンの解説
