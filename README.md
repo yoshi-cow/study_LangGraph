@@ -58,3 +58,7 @@
   * 管理エージェントがサブタスクに分解して、作業用エージェントに依頼する例
 * 21_Evaluator-optimizer.ipynb
   * LLM出力結果を評価用LLMが評価する例
+
+### アプリ
+* 26_LangGraph_app_with_Streamlit/
+  * Streamlitを利用したLangGraphによるレポート生成アプリ
