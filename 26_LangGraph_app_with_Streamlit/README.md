@@ -8,6 +8,7 @@
 `streamlit run app.py`にて起動  
 
 ### フォルダ構成
+```python
 app.py - プログラム実行用ファイル  
 src/  
  └ langgraphagenticai/  
@@ -31,3 +32,4 @@ src/
           └ display_result.py - LLM生成結果出力用  
           └ load_ui.py - 入力画面用  
 AINews/ - 出力されたレポート保存用フォルダ  
+```
